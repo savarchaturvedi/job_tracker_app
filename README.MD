@@ -38,7 +38,6 @@ The backend is built with NodeJS and ExpressJS, and media uploads are handled by
 - Recharts
 
 **Backend:** 
-- [Own REST API deployed on Railway ](https://github.com/themodernmonk7/JobTrek-job-tracking-web-API)
 - Node.js
 - Express.js
 - MongoDB
