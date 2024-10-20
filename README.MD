@@ -56,11 +56,6 @@ The backend is built with NodeJS and ExpressJS, and media uploads are handled by
 You can access the REST API backend of the JobTrek web app by following this git repo link: [JobTrek REST API]
 
 
-## Demo
-
-You can access the live version of the JobTrek web app by following this link [JobTrek](https://JobTrek-job.netlify.app)
-
-
 ## Screenshots
 
 
