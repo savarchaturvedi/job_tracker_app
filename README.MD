@@ -64,15 +64,6 @@ You can access the live version of the JobTrek web app by following this link [J
 
 ## Screenshots
 
-**Mobile**
-
-![App Screenshot](https://res.cloudinary.com/die12ywpb/image/upload/v1677816631/JobTrek/iphone-multiple-screens-mockup_iklivm.png)
-## Deployment
-
-- The frontend of the app is deployed on Netlify, a platform for easily deploying and hosting web applications.
-
-- The backend of the app is deployed on Railway, a platform for easily deploying and scaling Node.js applications.
-
 
 ## Roadmap
 
